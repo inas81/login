@@ -1,12 +1,5 @@
 package login;
 
 public class user {
-  //  i creat this class
-
-  //is work to update
-
-//complet
-
-
-
+    //i creat new file
 }
